@@ -9,13 +9,7 @@ Any development for prediction and diagnosis of cancer disease is capital import
 The main objective of this project is to predict and diagnosis breast cancer, using machine-learning algorithms,
 and find out the most effective with respect to confusion matrix, accuracy and precision.
 
-#### File and Folders.
 
-.Notebooks: 
-
-.Dashboard 
-
-.
 
 #### The Objectives
 
