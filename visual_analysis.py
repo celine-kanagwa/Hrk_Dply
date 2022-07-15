@@ -29,10 +29,7 @@ def DataAnalysis_section():
 
      st.markdown('### Analysing column relations')
      st.text('Correlations:')
-     #fig, ax = plt.subplots(figsize=(10,10))
-     #sns.heatmap(dataframe.corr(), annot=True, ax=ax)
-     #st.pyplot(fig)
-     #st.text('Effect of the different classes')
-     #Generate a scatter plot matrix with 'mean' columns
+    
+    
 
     
