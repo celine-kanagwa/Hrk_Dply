@@ -1,3 +1,4 @@
 pandas==1.3.4
 Pillow==9.2.0
+xrld<2.0
 streamlit==1.8.1
